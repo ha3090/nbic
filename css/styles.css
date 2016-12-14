@@ -100,6 +100,19 @@ hr {
 }
 
 /*Maps*/
+div#mapDiv div div.gm-style div div element.style {
+    position: fixed;
+    overflow: hidden;
+}
+html, body, #mapDiv {
+    height: 100%;
+    margin: 10;
+    padding: 10;
+}
+
+div {
+    display: block;
+}
 
 
 
